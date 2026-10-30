@@ -1,0 +1,10 @@
+{
+  "name": "devops-capstone-project",
+  "version": "1.0.0",
+  "description": "End-to-End DevOps CI/CD Node.js Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --check app.js"
+  }
+}

@@ -20,6 +20,9 @@ Automation| Bash, Cron
 
 Project Architecture
 
+## Architecture Diagram
+
+![DevOps Architecture](devops_capstone_architecture.png)
 Developer → GitHub → Jenkins → Docker Build → Docker Hub → AWS EC2 → Monitoring
 
 Project Structure

@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = 'arisivam/devops-capstone-app:latest'
-        APP_HOST = '13.233.255.106'
+        APP_HOST = '172.31.6.65'
     }
 
     stages {
